@@ -9,7 +9,7 @@ This project is a ToDo application built with React and TypeScript. It demonstra
 
 ## LINK TO PREVIEW
 
-[ToDO preview](https://an-marrykyslenko.github.io/to_do/)
+[ToDo preview](https://an-marrykyslenko.github.io/to_do/)
 
 ## Project Setup Instructions
 
